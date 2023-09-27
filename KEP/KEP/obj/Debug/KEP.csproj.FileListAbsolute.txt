@@ -1,0 +1,14 @@
+C:\programming\KEP\KEP\bin\Debug\KEP.exe.config
+C:\programming\KEP\KEP\bin\Debug\KEP.exe
+C:\programming\KEP\KEP\bin\Debug\KEP.pdb
+C:\programming\KEP\KEP\bin\Debug\System.Data.OleDb.dll
+C:\programming\KEP\KEP\bin\Debug\System.Data.OleDb.xml
+C:\programming\KEP\KEP\obj\Debug\KEP.csproj.AssemblyReference.cache
+C:\programming\KEP\KEP\obj\Debug\KEP.csproj.SuggestedBindingRedirects.cache
+C:\programming\KEP\KEP\obj\Debug\KEP.Form1.resources
+C:\programming\KEP\KEP\obj\Debug\KEP.Properties.Resources.resources
+C:\programming\KEP\KEP\obj\Debug\KEP.csproj.GenerateResource.cache
+C:\programming\KEP\KEP\obj\Debug\KEP.csproj.CoreCompileInputs.cache
+C:\programming\KEP\KEP\obj\Debug\KEP.csproj.CopyComplete
+C:\programming\KEP\KEP\obj\Debug\KEP.exe
+C:\programming\KEP\KEP\obj\Debug\KEP.pdb
